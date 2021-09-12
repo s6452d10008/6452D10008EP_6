@@ -1,0 +1,13 @@
+h1{
+    text-align: right;
+    background-color: cornflowerblue;
+    padding: 50;
+}
+p{
+    background-color: rgb(20, 220, 220);
+    padding: 15;
+}
+strong {
+    font-size: 50px;
+    color: darkorange;
+}
